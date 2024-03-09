@@ -1,0 +1,192 @@
+{
+  "food": [
+    {
+      "dishType": "Entree",
+      "name": "./images/BBQ_Ribs.jpg",
+      "title": "BBQ Ribs",
+      "cuisine": "American",
+      "description": "Indulge in our mouthwatering BBQ Ribs, where succulent pork ribs are slow-cooked to perfection, slathered in our signature smoky barbecue sauce, creating a harmonious blend of tenderness and bold flavors that will leave your taste buds dancing with delight. Served with a side of seasoned fries, it's a carnivore's dream come true."
+    },
+    {
+      "dishType": "Entree",
+      "name": "./images/CheeseBurger.jpg",
+      "title": "Cheese Burger",
+      "cuisine": "American",
+      "description": "Savor the classic American delight with our Cheese Burger, featuring a juicy, flame-grilled beef patty topped with gooey melted cheese, nestled in a soft, toasted bun. Accompanied by crisp lettuce, ripe tomatoes, and our special house sauce, each bite is a symphony of flavors that guarantees a satisfying and timeless burger experience."
+    },
+    {
+      "dishType": "Entree",
+      "name": "./images/Biryani.jpg",
+      "title": "Biryani",
+      "cuisine": "Indian",
+      "description": "Embark on a culinary journey with our aromatic Biryani, a fragrant blend of long-grain basmati rice, succulent pieces of marinated meat, and a medley of exotic spices. Slow-cooked to perfection, this traditional dish promises a symphony of flavors that will transport you to the heart of South Asian culinary delight."
+    },
+    {
+      "dishType": "Starter",
+      "name": "./images/Buffalo_Wings.jpg",
+      "title": "Buffalo Wings",
+      "cuisine": "American",
+      "description": "Experience a burst of fiery flavor with our Buffalo Wings – tender chicken wings deep-fried to golden perfection and coated in a zesty buffalo sauce that strikes the perfect balance between tangy and spicy. Served with cool ranch dressing and crisp celery sticks, this appetizer is a tantalizing combination that will leave you craving more."
+    },
+    {
+      "dishType": "Entree",
+      "name": "./images/Dal_Makhani.jpg",
+      "title": "Dal Makhani",
+      "cuisine": "Indian",
+      "description": "Delight in the rich and creamy goodness of our Dal Makhani, a Punjabi classic that features slow-cooked black lentils and kidney beans in a velvety tomato and butter-infused gravy. Immerse yourself in the comforting blend of aromatic spices, served with a side of fragrant basmati rice or warm, buttered naan for an authentic taste of India."
+    },
+    {
+      "dishType": "Starter",
+      "name": "./images/DimSum_Soup_and_Veg.jpg",
+      "title": "Dim Sum",
+      "cuisine": "Japanese",
+      "description": "Embark on a culinary adventure with our Dim Sum platter, a delectable assortment of delicate and handcrafted Chinese dumplings. Indulge in the perfect harmony of flavors and textures, from succulent steamed dumplings to crispy pan-fried parcels, showcasing the artistry of traditional Cantonese cuisine in every bite."
+    },
+    {
+      "dishType": "Entree",
+      "name": "./images/Fettuccine_Alfredo.jpg",
+      "title": "Fettuccine Alfredo",
+      "cuisine": "Italian",
+      "description": "Satisfy your pasta cravings with our Fettuccine Alfredo, a classic Italian indulgence. Immerse yourself in the silky, creamy Alfredo sauce generously tossed with al dente fettuccine noodles, creating a luxurious and comforting dish that captures the essence of timeless Italian gastronomy."
+    },
+    {
+      "dishType": "Starter",
+      "name": "./images/Gnocchi.jpg",
+      "title": "Gnocchi",
+      "cuisine": "Italian",
+      "description": "Elevate your dining experience with our Gnocchi, where soft and pillowy potato dumplings are delicately handcrafted and served in a luscious sage-infused brown butter sauce. Each bite is a celebration of Italian culinary finesse, delivering a perfect blend of texture and flavor that promises to transport you to the heart of Italy."
+    },
+    {
+      "dishType": "Entree",
+      "name": "./images/Gyoza.jpg",
+      "title": "Gyoza",
+      "cuisine": "Japanese",
+      "description": "Delight your palate with our Gyoza, Japanese pan-fried dumplings filled with a savory blend of minced meat and vegetables. Expertly crafted for the perfect balance of crispy bottoms and tender, flavorful fillings, these bite-sized delights are served with a tangy soy-based dipping sauce, offering a taste of authentic Japanese culinary craftsmanship."
+    },
+    {
+      "dishType": "Entree",
+      "name": "./images/HotDogs.jpg",
+      "title": "Hot Dog",
+      "cuisine": "American",
+      "description": "Savor the classic American comfort with our Hot Dog, featuring a juicy, grilled all-beef frankfurter nestled in a soft, golden bun. Topped with your choice of condiments, it's a timeless delight that delivers a burst of savory flavors in every satisfying bite."
+    },
+    {
+      "dishType": "Entree",
+      "name": "./images/Italian_Meatballs.jpg",
+      "title": "Italian Meatballs",
+      "cuisine": "Italian",
+      "description": "Indulge in the hearty goodness of our Italian Meatballs – perfectly seasoned, hand-rolled spheres of ground meat, bathed in a robust tomato sauce. Served atop a bed of al dente spaghetti, this classic dish is a celebration of rustic Italian flavors, delivering a comforting and satisfying dining experience."
+    },
+    {
+      "dishType": "Entree",
+      "name": "./images/Mattar_Paneer.jpg",
+      "title": "Mattar Paneer",
+      "cuisine": "Indian",
+      "description": "Immerse yourself in the vibrant flavors of India with our Mattar Paneer, a delectable vegetarian dish that combines succulent cubes of paneer (Indian cottage cheese) with vibrant green peas in a rich and aromatic tomato-based curry. Served with fluffy basmati rice or warm naan, this dish captures the essence of Indian cuisine in every aromatic and savory bite."
+    },
+    {
+      "dishType": "Entree",
+      "name": "./images/Pav_Bhaji.jpg",
+      "title": "Pav Bhaji",
+      "cuisine": "Indian",
+      "description": "Experience the lively street food culture of Mumbai with our Pav Bhaji, a flavorful medley of mashed vegetables cooked to perfection in a fragrant blend of spices. Served with soft, buttered pav (bread rolls), this iconic dish offers a symphony of textures and tastes, creating a delightful culinary journey that captures the essence of Indian street cuisine."
+    },
+    {
+      "dishType": "Entree",
+      "name": "./images/Pot_Roast_Chicken.jpg",
+      "title": "Pot Roast Chicken",
+      "cuisine": "American",
+      "description": "Indulge in the homely comfort of our Pot Roast Chicken, where tender and succulent chicken is slow-cooked to perfection in a savory broth with hearty vegetables. Imbued with aromatic herbs and spices, this classic dish promises a heartwarming and wholesome dining experience that feels just like a home-cooked meal."
+    },
+    {
+      "dishType": "Entree",
+      "name": "./images/Ramen.jpg",
+      "title": "Ramen",
+      "cuisine": "Japanese",
+      "description": "Embark on a culinary adventure with our Ramen, a soul-warming Japanese noodle soup crafted with precision. Immerse yourself in the harmonious broth, perfectly cooked noodles, and an array of toppings like tender slices of chashu pork, green onions, and a seasoned boiled egg, delivering an authentic and comforting taste of Japan in every slurp."
+    },
+    {
+      "dishType": "Entree",
+      "name": "./images/RIsotto.jpg",
+      "title": "Risotto",
+      "cuisine": "Italian",
+      "description": "Savor the luxurious simplicity of our Risotto, a Northern Italian specialty that elevates creamy Arborio rice to a delectable masterpiece. Slow-cooked to a velvety consistency and infused with a medley of flavors, our risotto is a culinary symphony that captivates the palate, making each forkful a delightful celebration of Italian gastronomy."
+    },
+    {
+      "dishType": "Entree",
+      "name": "./images/Spagetti-baluganese.jpg",
+      "title": "Spaghetti Bolognese",
+      "cuisine": "Italian",
+      "description": "Experience the timeless Italian classic with our Spaghetti Bolognese, where al dente pasta is generously coated in a hearty, slow-cooked meat sauce infused with tomatoes, garlic, and aromatic herbs. Topped with a sprinkle of Parmesan, this dish embodies the comforting essence of Italy, delivering a rich and savory dining experience."
+    },
+    {
+      "dishType": "Entree",
+      "name": "./images/Tandoori_Chicken.jpg",
+      "title": "Tandoori Chicken",
+      "cuisine": "Indian",
+      "description": "Savor the bold and aromatic flavors of India with our Tandoori Chicken, where succulent pieces of chicken are marinated in a blend of yogurt and traditional spices, then charcoal-grilled to perfection. Garnished with fresh cilantro and served with cooling mint chutney, this dish offers a tantalizing taste of the vibrant and authentic flavors of Tandoori cuisine."
+    },
+    {
+      "dishType": "Entree",
+      "name": "./images/Tonkatsu.jpg",
+      "title": "Tonkatsu",
+      "cuisine": "Japanese",
+      "description": "Delight your taste buds with our Tonkatsu, a Japanese favorite that features a crispy and golden breaded pork cutlet. Served with a side of shredded cabbage and a drizzle of tangy tonkatsu sauce, each bite provides a delightful crunch and a symphony of savory flavors, offering a perfect balance of textures and tastes."
+    },
+    {
+      "dishType": "Starter",
+      "name": "./images/Yaki_Udon.jpg",
+      "title": "Yaki Udon",
+      "cuisine": "Japanese",
+      "description": "Experience the wok-fired perfection of our Yaki Udon, a Japanese stir-fried noodle dish that combines thick udon noodles with a colorful array of crisp vegetables and your choice of protein. Tossed in a savory soy-based sauce, this hearty and flavorful dish promises a satisfying medley of textures and tastes that transport you to the bustling streets of Japan."
+    },
+    {
+      "dishType": "Dessert",
+      "name": "./images/Apple_Pie.jpg",
+      "title": "Apple Pie",
+      "cuisine": "American",
+      "description": "Indulge in the classic American comfort of our Apple Pie, where tender slices of sweet and tart apples are enveloped in a flaky, golden crust. Served warm and dusted with cinnamon, each bite is a nostalgic journey, capturing the essence of homemade goodness that defines this timeless dessert."
+    },
+    {
+      "dishType": "Dessert",
+      "name": "./images/gulab_jamun.jpg",
+      "title": "Gulab Jamun",
+      "cuisine": "Indian",
+      "description": "Treat yourself to the exquisite sweetness of our Gulab Jamun, a beloved Indian dessert that features golden-brown, melt-in-your-mouth dumplings soaked in a fragrant rose-infused sugar syrup. With a heavenly blend of textures and flavors, this indulgent dessert promises a symphony of sweetness that lingers on the palate, capturing the essence of traditional Indian sweets."
+    },
+    {
+      "dishType": "Dessert",
+      "name": "./images/Chocolate_Chiffon_Cake.jpg",
+      "title": "Chocolate Chiffon Cake",
+      "cuisine": "Japanese",
+      "description": "Experience the sublime elegance of our Chocolate Chiffon Cake, a delicate and moist confection that combines the richness of premium cocoa with the lightness of chiffon. Adorned with a velvety chocolate ganache, each slice is a heavenly treat, offering a perfect balance of decadence and ethereal texture for a delightful conclusion to your dining experience."
+    },
+    {
+      "dishType": "Dessert",
+      "name": "./images/Macroons.jpg",
+      "title": "Macaroons",
+      "cuisine": "Italian",
+      "description": "Indulge in the delicate sweetness of our Macarons, a French pastry sensation that boasts a crispy, almond-based exterior giving way to a luscious, creamy filling. With a vibrant array of flavors and colors, these bite-sized delights offer a symphony of textures and tastes, providing a delightful and sophisticated treat for any sweet enthusiast."
+    }
+  ],
+  "popular": [
+    {
+      "foodId": "1234",
+      "title": "Gnocchi",
+      "url": "./images/Gnocchi.jpg",
+      "description": "Elevate your dining experience with our Gnocchi, where soft and pillowy potato dumplings are delicately handcrafted and served in a luscious sage-infused brown butter sauce. Each bite is a celebration of Italian culinary finesse, delivering a perfect blend of texture and flavor that promises to transport you to the heart of Italy."
+    },
+    {
+      "foodId": "A124",
+      "title": "Macaroons",
+      "description": "Indulge in the delicate sweetness of our Macarons, a French pastry sensation that boasts a crispy, almond-based exterior giving way to a luscious, creamy filling. With a vibrant array of flavors and colors, these bite-sized delights offer a symphony of textures and tastes, providing a delightful and sophisticated treat for any sweet enthusiast.",
+      "url": "./images/Macroons.jpg"
+    },
+    {
+      "foodId": "76788",
+      "title": "Dal Makhani",
+      "description": "Delight in the rich and creamy goodness of our Dal Makhani, a Punjabi classic that features slow-cooked black lentils and kidney beans in a velvety tomato and butter-infused gravy. Immerse yourself in the comforting blend of aromatic spices, served with a side of fragrant basmati rice or warm, buttered naan for an authentic taste of India.",
+      "url": "./images/Dal_Makhani.jpg"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <nav>
+        <div class="container">
+            <header class="d-flex justify-content-center py-3">
+                <ul class="nav nav-pills">
+                    <li class="nav-item"><a href="./index.html" class="nav-link active" aria-current="page">Home</a></li>
+                    <li class="nav-item"><a href="./menu.html" class="nav-link">Menu</a></li>
+                    <li class="nav-item"><a href="./about.html" class="nav-link">About</a></li>
+                </ul>
+            </header>
+        </div>
+    </nav>
+
+    <section id="caruousel">
+        <div id="myCarousel" class="carousel slide mb-6" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class=""
+                    aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"
+                    class="active" aria-current="true"></button>
+                <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"
+                    class=""></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item slide">
+                    <!-- image -->
+                    <img src="./images/pancake.jpeg" alt="" class="slide-img">
+                    <div class="container">
+                        <div class="carousel-caption text-start">
+                            <h1>Feel hungry?</h1>
+                            <p class="opacity-75">Savoring the symphony of flavors in every bite, where culinary artistry meets the palate's delight.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item active slide">
+                    <!-- image -->
+                    <img src="./images/salad.jpeg" alt="" class="slide-img">
+                    <div class="container">
+                        <div class="carousel-caption">
+                            <h1>Never leave with an empty stomache</h1>
+                            <p>As the kitchen buzzes with creativity, our chefs craft a culinary ballet of flavors that gracefully unfold on the palate. </p>
+                            <p><a class="btn btn-lg btn-primary" href="./about.html">Learn more</a></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item slide">
+                    <!-- image -->
+                    <img src="./images/ice.jpeg" alt="" class="slide-img">
+                    <div class="container">
+                        <div class="carousel-caption text-end">
+                            <h1>Every Friday, drinks are on sale for 20% off</h1>
+                            <p>Make sure to try everything on the menu.</p>
+                            <p><a class="btn btn-lg btn-primary" href="./menu.html">Browse menu</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </section>
+    
+
+    <section id="popularDishes">
+        <div class="container ">
+            <h1 id="popular-title">Popular Items:</h1>
+            <div class="row" id="popular-container">
+            </div><!-- /.container -->
+    </section>
+
+    <footer class="py-3">
+        <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+            <li class="nav-item"><a href="./index.html" class="nav-link px-2 text-body-secondary">Home</a></li>
+            <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Menu</a></li>
+            <li class="nav-item"><a href="./about.html" class="nav-link px-2 text-body-secondary">About</a></li>
+        </ul>
+        <p class="text-center text-body-secondary">© 2024 Company, Inc</p>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+<script src="./index.js"></script>
+
+
+</body>
+
+</html>
